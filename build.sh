@@ -30,5 +30,6 @@ echo ""
 echo ""
 echo ""
 echo "Type make command"
+echo "Remove debug symbols: strip src/stronghandsd ; strip src/stronghands-cli"
 
 #make
